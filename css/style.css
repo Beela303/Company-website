@@ -398,7 +398,7 @@ nav ul li a:hover{
 /*******====================     HOMEPAGE    ================================*********/
 #home-page{
     color: var(--main-color);
-    background: url("assets/below the ocean (no cr).jpg") no-repeat center;
+    background: url("assets/below the ocean.jpg") no-repeat center;
     /*background: linear-gradient(crimson,black);*/
     background-size: cover;
     background-attachment: fixed;
